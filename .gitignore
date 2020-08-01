@@ -1,0 +1,38 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Danger levels/out/
+/Problems/Danger levels/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Fill the declaration/out/
+/Problems/Fill the declaration/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Raise to the power/out/
+/Problems/Raise to the power/out/production/classes/
+/Problems/Robot control/out/
+/Problems/Robot control/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/The forgotten comments/out/
+/Problems/The forgotten comments/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
